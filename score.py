@@ -53,3 +53,6 @@ if __name__ == "__main__":
     f_score, avg = get_f1_score(pre_file="ner_predict_large.json", gold_file="data/thuctc_valid.json")
 
     print(f_score, avg)
+
+import torch
+torch.cuda.is_available()

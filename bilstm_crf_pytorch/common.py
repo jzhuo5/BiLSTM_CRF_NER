@@ -41,6 +41,7 @@ def init_logger(log_file=None, log_file_level=logging.NOTSET):
     return logger
 
 def seed_everything(seed=1029):
+    #统一seed值
     '''
     设置整个开发环境的seed
     :param seed:
@@ -207,7 +208,7 @@ def json_to_text(file_path,data):
     '''
     if not isinstance(file_path, Path):
         file_path = Path(file_path)
-    with open(str(file_path), 'w') as fw:
+    with open(str(file_path), 'w', encoding='utf-8') as fw:
         for line in data:
             line = json.dumps(line, ensure_ascii=False)
             fw.write(line + '\n')

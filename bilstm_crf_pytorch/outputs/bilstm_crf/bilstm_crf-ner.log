@@ -1,0 +1,228 @@
+Creating features from dataset file at D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset
+Saving features into cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Creating features from dataset file at D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset
+Creating features from dataset file at D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset
+Saving features into cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Creating features from dataset file at D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset
+Creating features from dataset file at D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset
+Creating features from dataset file at D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset
+Creating features from dataset file at D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset
+Saving features into cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Creating features from dataset file at D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset
+Saving features into cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Creating features from dataset file at D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset
+Saving features into cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 1 -  loss: 173.4342 - eval_loss: 20.3978 - eval_acc: 0.0000 - eval_recall: 0.0000 - eval_f1: 0.0000 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 2 -  loss: 44.6656 - eval_loss: 14.5534 - eval_acc: 0.3333 - eval_recall: 0.0833 - eval_f1: 0.1333 
+
+Epoch 2: eval_f1 improved from 0 to 0.13333333333333333
+save model to disk.
+Subject: RESIDENCE_COMMUNITY - Acc: 0.3333 - Recall: 0.1 - F1: 0.1538
+Subject: CORPORATION - Acc: 0 - Recall: 0.0 - F1: 0.0
+Subject: PERSON - Acc: 0 - Recall: 0.0 - F1: 0.0
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 3 -  loss: 34.3608 - eval_loss: 11.6365 - eval_acc: 0.6000 - eval_recall: 0.2500 - eval_f1: 0.3529 
+
+Epoch 3: eval_f1 improved from 0.13333333333333333 to 0.35294117647058826
+save model to disk.
+Subject: RESIDENCE_COMMUNITY - Acc: 0.6 - Recall: 0.3 - F1: 0.4
+Subject: CORPORATION - Acc: 0 - Recall: 0.0 - F1: 0.0
+Subject: PERSON - Acc: 0 - Recall: 0.0 - F1: 0.0
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 4 -  loss: 24.8275 - eval_loss: 8.0999 - eval_acc: 0.5000 - eval_recall: 0.1667 - eval_f1: 0.2500 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 5 -  loss: 19.1560 - eval_loss: 4.0375 - eval_acc: 0.8889 - eval_recall: 0.6667 - eval_f1: 0.7619 
+
+Epoch 5: eval_f1 improved from 0.35294117647058826 to 0.761904761904762
+save model to disk.
+Subject: RESIDENCE_COMMUNITY - Acc: 0.875 - Recall: 0.7 - F1: 0.7778
+Subject: CORPORATION - Acc: 1.0 - Recall: 1.0 - F1: 1.0
+Subject: PERSON - Acc: 0 - Recall: 0.0 - F1: 0.0
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 6 -  loss: 17.1435 - eval_loss: 2.1721 - eval_acc: 0.8182 - eval_recall: 0.7500 - eval_f1: 0.7826 
+
+Epoch 6: eval_f1 improved from 0.761904761904762 to 0.7826086956521738
+save model to disk.
+Subject: RESIDENCE_COMMUNITY - Acc: 0.8 - Recall: 0.8 - F1: 0.8
+Subject: CORPORATION - Acc: 1.0 - Recall: 1.0 - F1: 1.0
+Subject: PERSON - Acc: 0 - Recall: 0.0 - F1: 0.0
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 7 -  loss: 13.1479 - eval_loss: 3.2824 - eval_acc: 0.8182 - eval_recall: 0.7500 - eval_f1: 0.7826 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 8 -  loss: 16.0434 - eval_loss: 0.9258 - eval_acc: 0.9091 - eval_recall: 0.8333 - eval_f1: 0.8696 
+
+Epoch 8: eval_f1 improved from 0.7826086956521738 to 0.8695652173913043
+save model to disk.
+Subject: RESIDENCE_COMMUNITY - Acc: 0.9 - Recall: 0.9 - F1: 0.9
+Subject: CORPORATION - Acc: 1.0 - Recall: 1.0 - F1: 1.0
+Subject: PERSON - Acc: 0 - Recall: 0.0 - F1: 0.0
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 9 -  loss: 10.2511 - eval_loss: 0.9232 - eval_acc: 0.9091 - eval_recall: 0.8333 - eval_f1: 0.8696 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 10 -  loss: 8.7173 - eval_loss: 0.5638 - eval_acc: 1.0000 - eval_recall: 0.9167 - eval_f1: 0.9565 
+
+Epoch 10: eval_f1 improved from 0.8695652173913043 to 0.9565217391304348
+save model to disk.
+Subject: RESIDENCE_COMMUNITY - Acc: 1.0 - Recall: 1.0 - F1: 1.0
+Subject: CORPORATION - Acc: 1.0 - Recall: 1.0 - F1: 1.0
+Subject: PERSON - Acc: 0 - Recall: 0.0 - F1: 0.0
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 11 -  loss: 7.3748 - eval_loss: 0.4467 - eval_acc: 1.0000 - eval_recall: 0.9167 - eval_f1: 0.9565 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 12 -  loss: 5.9992 - eval_loss: 0.4479 - eval_acc: 1.0000 - eval_recall: 1.0000 - eval_f1: 1.0000 
+
+Epoch 12: eval_f1 improved from 0.9565217391304348 to 1.0
+save model to disk.
+Subject: RESIDENCE_COMMUNITY - Acc: 1.0 - Recall: 1.0 - F1: 1.0
+Subject: CORPORATION - Acc: 1.0 - Recall: 1.0 - F1: 1.0
+Subject: PERSON - Acc: 1.0 - Recall: 1.0 - F1: 1.0
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 13 -  loss: 5.5879 - eval_loss: 0.3266 - eval_acc: 1.0000 - eval_recall: 0.9167 - eval_f1: 0.9565 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 14 -  loss: 4.3429 - eval_loss: 0.2345 - eval_acc: 1.0000 - eval_recall: 1.0000 - eval_f1: 1.0000 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 15 -  loss: 5.2168 - eval_loss: 0.1887 - eval_acc: 1.0000 - eval_recall: 1.0000 - eval_f1: 1.0000 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 16 -  loss: 5.2150 - eval_loss: 0.2313 - eval_acc: 1.0000 - eval_recall: 1.0000 - eval_f1: 1.0000 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 17 -  loss: 4.9341 - eval_loss: 0.1784 - eval_acc: 1.0000 - eval_recall: 1.0000 - eval_f1: 1.0000 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 18 -  loss: 3.9782 - eval_loss: 0.1702 - eval_acc: 0.9167 - eval_recall: 0.9167 - eval_f1: 0.9167 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 19 -  loss: 3.3335 - eval_loss: 0.0936 - eval_acc: 1.0000 - eval_recall: 1.0000 - eval_f1: 1.0000 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 20 -  loss: 2.4985 - eval_loss: 0.0771 - eval_acc: 1.0000 - eval_recall: 1.0000 - eval_f1: 1.0000 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 21 -  loss: 2.1447 - eval_loss: 0.0864 - eval_acc: 1.0000 - eval_recall: 1.0000 - eval_f1: 1.0000 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 22 -  loss: 1.9889 - eval_loss: 0.0836 - eval_acc: 1.0000 - eval_recall: 1.0000 - eval_f1: 1.0000 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 23 -  loss: 2.1890 - eval_loss: 0.0790 - eval_acc: 1.0000 - eval_recall: 1.0000 - eval_f1: 1.0000 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 24 -  loss: 1.8140 - eval_loss: 0.0703 - eval_acc: 1.0000 - eval_recall: 1.0000 - eval_f1: 1.0000 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 25 -  loss: 2.0516 - eval_loss: 0.0517 - eval_acc: 1.0000 - eval_recall: 1.0000 - eval_f1: 1.0000 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Creating features from dataset file at D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset
+Saving features into cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Creating features from dataset file at D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset
+Saving features into cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 1 -  loss: 173.4199 - eval_loss: 20.3965 - eval_acc: 0.0000 - eval_recall: 0.0000 - eval_f1: 0.0000 
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 2 -  loss: 44.6879 - eval_loss: 14.5321 - eval_acc: 0.3333 - eval_recall: 0.0833 - eval_f1: 0.1333 
+
+Epoch 2: eval_f1 improved from 0 to 0.13333333333333333
+save model to disk.
+Subject: RESIDENCE_COMMUNITY - Acc: 0.3333 - Recall: 0.1 - F1: 0.1538
+Subject: CORPORATION - Acc: 0 - Recall: 0.0 - F1: 0.0
+Subject: PERSON - Acc: 0 - Recall: 0.0 - F1: 0.0
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 3 -  loss: 34.4167 - eval_loss: 11.5839 - eval_acc: 0.4000 - eval_recall: 0.1667 - eval_f1: 0.2353 
+
+Epoch 3: eval_f1 improved from 0.13333333333333333 to 0.23529411764705882
+save model to disk.
+Subject: RESIDENCE_COMMUNITY - Acc: 0.4 - Recall: 0.2 - F1: 0.2667
+Subject: CORPORATION - Acc: 0 - Recall: 0.0 - F1: 0.0
+Subject: PERSON - Acc: 0 - Recall: 0.0 - F1: 0.0
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 4 -  loss: 24.8990 - eval_loss: 8.0951 - eval_acc: 0.5000 - eval_recall: 0.1667 - eval_f1: 0.2500 
+
+Epoch 4: eval_f1 improved from 0.23529411764705882 to 0.25
+save model to disk.
+loading model from D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\outputs\bilstm_crf\best-model.bin .
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+loading model from D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\outputs\bilstm_crf\best-model.bin .
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+loading model from D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\outputs\bilstm_crf\best-model.bin .
+loading model from D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\outputs\bilstm_crf\best-model.bin .
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+loading model from D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\outputs\bilstm_crf\best-model.bin .
+loading model from D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\outputs\bilstm_crf\best-model.bin .
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+loading model from D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\outputs\bilstm_crf\best-model.bin .
+Creating features from dataset file at D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset
+Saving features into cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Creating features from dataset file at D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset
+Saving features into cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+
+Epoch: 1 -  loss: 74.7702 - eval_loss: 11.7958 - eval_acc: 0.2857 - eval_recall: 0.1739 - eval_f1: 0.2162 
+
+Epoch 1: eval_f1 improved from 0 to 0.2162162162162162
+save model to disk.
+Subject: RESIDENCE_COMMUNITY - Acc: 0.2857 - Recall: 0.1429 - F1: 0.1905
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-dev_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner
+Loading features from cached file D:\Git_CCI\zjy_test_project\CLUENER2020\bilstm_crf_pytorch\dataset\cached_crf-train_bilstm_crf_ner

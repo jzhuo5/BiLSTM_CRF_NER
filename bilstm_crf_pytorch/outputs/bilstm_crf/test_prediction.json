@@ -1,0 +1,3 @@
+{"id": 0, "tag_seq": "O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|I-RESIDENCE_COMMUNITY|I-RESIDENCE_COMMUNITY|I-RESIDENCE_COMMUNITY|O|O|O|O|O|O|O|O|O", "entities": []}
+{"id": 1, "tag_seq": "O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O", "entities": []}
+{"id": 2, "tag_seq": "O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|I-RESIDENCE_COMMUNITY|O|O|O|O|O|O|O|O|I-RESIDENCE_COMMUNITY|I-RESIDENCE_COMMUNITY|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|I-RESIDENCE_COMMUNITY|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O", "entities": []}
